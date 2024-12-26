@@ -1,4 +1,4 @@
-# Vrinda-Store-Sales-Project
+# sql
 
 Objective
 
