@@ -1,0 +1,63 @@
+name,SUM(pizzas.price),size
+"The Barbecue Chicken Pizza",20.75,L
+"The Barbecue Chicken Pizza",16.75,M
+"The California Chicken Pizza",20.75,L
+"The California Chicken Pizza",16.75,M
+"The Chicken Alfredo Pizza",20.75,L
+"The Chicken Alfredo Pizza",16.75,M
+"The Chicken Pesto Pizza",20.75,L
+"The Chicken Pesto Pizza",16.75,M
+"The Southwest Chicken Pizza",20.75,L
+"The Southwest Chicken Pizza",16.75,M
+"The Thai Chicken Pizza",20.75,L
+"The Thai Chicken Pizza",16.75,M
+"The Big Meat Pizza",20.5,L
+"The Big Meat Pizza",16,M
+"The Classic Deluxe Pizza",20.5,L
+"The Classic Deluxe Pizza",16,M
+"The Hawaiian Pizza",16.5,L
+"The Hawaiian Pizza",13.25,M
+"The Italian Capocollo Pizza",20.5,L
+"The Italian Capocollo Pizza",16,M
+"The Napolitana Pizza",20.5,L
+"The Napolitana Pizza",16,M
+"The Pepperoni, Mushroom, and Peppers Pizza",17.5,L
+"The Pepperoni, Mushroom, and Peppers Pizza",14.5,M
+"The Pepperoni Pizza",15.25,L
+"The Pepperoni Pizza",12.5,M
+"The Greek Pizza",20.5,L
+"The Greek Pizza",16,M
+"The Calabrese Pizza",20.25,L
+"The Calabrese Pizza",16.25,M
+"The Italian Supreme Pizza",20.75,L
+"The Italian Supreme Pizza",16.5,M
+"The Pepper Salami Pizza",20.75,L
+"The Pepper Salami Pizza",16.5,M
+"The Prosciutto and Arugula Pizza",20.75,L
+"The Prosciutto and Arugula Pizza",16.5,M
+"The Sicilian Pizza",20.25,L
+"The Sicilian Pizza",16.25,M
+"The Soppressata Pizza",20.75,L
+"The Soppressata Pizza",16.5,M
+"The Spicy Italian Pizza",20.75,L
+"The Spicy Italian Pizza",16.5,M
+"The Spinach Supreme Pizza",20.75,L
+"The Spinach Supreme Pizza",16.5,M
+"The Five Cheese Pizza",18.5,L
+"The Five Cheese Pizza",15.5,M
+"The Four Cheese Pizza",17.95,L
+"The Four Cheese Pizza",14.75,M
+"The Green Garden Pizza",20.25,L
+"The Green Garden Pizza",16,M
+"The Italian Vegetables Pizza",21,L
+"The Italian Vegetables Pizza",16.75,M
+"The Mediterranean Pizza",20.25,L
+"The Mediterranean Pizza",16,M
+"The Mexicana Pizza",20.25,L
+"The Mexicana Pizza",16,M
+"The Spinach Pesto Pizza",20.75,L
+"The Spinach Pesto Pizza",16.5,M
+"The Spinach and Feta Pizza",20.25,L
+"The Spinach and Feta Pizza",16,M
+"The Vegetables + Vegetables Pizza",20.25,L
+"The Vegetables + Vegetables Pizza",16,M
