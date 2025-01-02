@@ -1,6 +1,0 @@
-size,COUNT(order_details.order_id)
-M,15385
-L,18526
-S,14137
-XL,544
-XXL,28
