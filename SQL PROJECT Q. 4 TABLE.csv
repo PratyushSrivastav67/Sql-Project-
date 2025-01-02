@@ -1,0 +1,6 @@
+name,size,SUM(pizzas.price)
+"The Greek Pizza",XXL,35.95
+"The Greek Pizza",XL,25.5
+"The Barbecue Chicken Pizza",S,12.75
+"The Five Cheese Pizza",S,12.5
+"The Pepperoni, Mushroom, and Peppers Pizza",S,11
